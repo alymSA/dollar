@@ -4,6 +4,7 @@ import 'dart:io';
 kztToSom(){
 double kzt = 0.20;
 print('Cколько ТЕНГЕ желаете обменять на сом?');
+print('object');
 
 String lol = stdin.readLineSync()!;
 
